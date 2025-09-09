@@ -1,0 +1,50 @@
+ <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">What if the location for the unit is on a slight incline?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Our trained technicians are experts at placement. They will use professional-grade leveling blocks to ensure the unit is stable, secure, and completely level for a safe and comfortable user experience, even if the ground is not perfectly flat.</p>
+                <h4 class="template4 palooma" style="font-size:large;">For a multi-day event, is there anything we can do to help keep the unit fresh between services?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">While our initial chemical charge is very effective, promoting good ventilation is key. We recommend propping the door slightly ajar when the unit is not in use (if the location is secure) to encourage air circulation. For larger events, the best solution is to schedule additional servicing visits.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do you offer standalone hand-washing stations?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, we do. In addition to the sinks included in our Event Pro and luxury trailer models, we offer standalone, two-station hand-washing units. These are highly recommended for any event, especially where food is served, to promote superior hygiene.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Is it possible to place a unit in a location that is far from the street?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Our service trucks need to be able to get reasonably close to the unit's location (typically within 25 feet) to safely pump and service the tank. If you have concerns about a remote placement, please discuss them with us so we can determine the feasibility.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do you offer sanitation services for personal RVs or camper trailers?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">While our primary business is providing our own rental units, we may be able to offer pumping services for RVs or campers depending on location and schedule availability. Please call our office to inquire about this specialized service.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What is your procedure for severe weather, such as high winds or a major storm?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Safety is our top priority. Our units are designed to be stable, but in the event of a severe weather forecast, we recommend placing them against a building or in a sheltered area if possible. For long-term rentals, we can also provide stakes to secure the unit to the ground for added stability.</p>
+                <div class="callalooma mx-auto"><a href="tel:801-441-6223">Click Here To Call Us (801) 441-6223</a></div>
+            </div>
+        </div>
+        </section>
+       </div>
+
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">States In USA</h2>
+        <div class="row">
+            aloomaidallfotter
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Most popular cities we serve</h2>
+        <div class="row">
+            aloomaidallfottecity
+        </div>
+        </section>
+    </div>
